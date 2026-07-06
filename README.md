@@ -16,4 +16,6 @@ The dataset was accessed via the DataCamp community-groupby repository: https://
 
 The DataCamp repository served as a convenient source for the CSV files, while the original dataset is hosted on data.world. 
 
-<ins>The dataset is **NOT INCLUDED** in this repository. Users should obtain the dataset directly from the original source and comply with its applicable terms of use.</ins>
+The dataset is **NOT INCLUDED** in this repository. 
+
+<ins>Users should obtain the dataset directly from the original source and comply with its applicable terms of use.</ins>
