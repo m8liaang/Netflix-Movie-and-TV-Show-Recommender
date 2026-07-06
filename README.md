@@ -2,7 +2,7 @@
 The objective of the project was to practice and become familiar with the Python programming language.
 
 ## Overview
-A text-based recommender that recommends Netflix movies and TV shows based on the rating and release year preferences. The recommender also has a feature that recommends a random movie$/$TV show, and was done using Random. Preprocessing and preparation of the data was done using Pandas and NumPy. 
+A text-based recommender that recommends Netflix movies and TV shows based on rating and release year preferences. The recommender also has a feature that recommends a random movie$/$TV show, and was done using Random. Preprocessing and preparation of the data was done using Pandas and NumPy. 
 
 ## Python Libraries Used/Toolkit
 Pandas, NumPy, Random
