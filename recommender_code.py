@@ -22,9 +22,7 @@ netflix_entertainment.nunique()
 netflix_entertainment['rating'].unique()
 netflix_entertainment['rating'] = netflix_entertainment['rating'].replace('UR', 'Unrated')
 
-
-print(netflix_entertainment['release_year'].min(),
-      netflix_entertainment['release_year'].max())
+# To view the minimum and maximum years in CSV: print(netflix_entertainment['release_year'].min(), netflix_entertainment['release_year'].max())
 release_years = np.arange(1940, 2018).tolist()
 
 # RECOMMEND A TV SHOW/MOVIE
