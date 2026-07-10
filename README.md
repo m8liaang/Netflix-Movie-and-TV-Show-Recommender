@@ -1,4 +1,4 @@
-# Netflix-Movie-and-TV-Show-Recommender
+# Netflix Movie and TV Show Recommender
 The objective of the project was to practice and become familiar with the Python programming language.
 
 ## Overview
