@@ -125,8 +125,7 @@ def year_range(new_df, format_prompt):
     except ValueError:
       print("Please enter a valid year.")
 
-# RUN FUNCTION/SEE RESULTS
-
-recommended_show_movie()
-
-search_function()
+# RUN FUNCTIONS
+if __name__ == "__main__":
+  recommended_show_movie()
+  search_function()
